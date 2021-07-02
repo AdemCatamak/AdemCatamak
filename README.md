@@ -1,16 +1,15 @@
-### Hi there 👋
+<h2 align="center">Hi 👋, I'm Adem Catamak</h2>
 
-<!--
-**AdemCatamak/AdemCatamak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/adem-catamak/" target="_blank"><img align="center" src="icons/icon-linkedin.svg" alt="adem" width="30px" /></a>
+  <a href="https://ademcatamak.medium.com/" target="_blank"><img align="center" src="icons/icon-medium.svg" alt="adem" width="30px" /></a>
+</p>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a software developer living in Turkey. I am passionate about programming and learning new skills. I enjoy sharing my knowledge as much as I can.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="width:100%"><br /></div>
+
+<p align="center">
+  <img height="160px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCatamak&layout=compact&langs_count=6&theme=nord" />
+  <img height="160px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AdemCatamak&hide=issue&show_icons=true&theme=nord" />
+</p>
