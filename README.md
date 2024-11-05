@@ -5,7 +5,7 @@
   <a href="https://ademcatamak.medium.com/" target="_blank"><img align="center" src="icons/icon-medium.svg" alt="adem" width="30px" /></a>
 </p>
 
-Welcome to my GitHub profile! I am a software developer living in Turkey. I am passionate about programming and learning new skills. I enjoy sharing my knowledge as much as I can.
+Welcome to my GitHub profile! I am a software developer living in Prague/Czechia. I am passionate about programming and learning new skills. I enjoy sharing my knowledge as much as I can.
 
 <div style="width:100%"><br /></div>
 
